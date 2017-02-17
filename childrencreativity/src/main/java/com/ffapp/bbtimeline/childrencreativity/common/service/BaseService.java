@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Service基类
- * @author ThinkGem
+ * @author 蒋志奇
  * @version 2013-05-15
  */
 public abstract class BaseService {
